@@ -11,6 +11,9 @@
 // $Release Date: Octobe 23, 2014 $
 //###########################################################################
 
+#include <cstdint>
+#include <cstdio>
+
 #include "stdafx.h"
 
 #ifndef __linux__
